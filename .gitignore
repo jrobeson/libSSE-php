@@ -119,6 +119,7 @@ Desktop.ini
 ############
 ## Composer
 ############
+composer.lock
 /vendor
 
 ############
